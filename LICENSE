@@ -1,3 +1,10 @@
+This software links with GPL libraries with "linking exception" and LGPL or other software
+which binaries are included in this release. They have their own licenses which don't cause
+the binary DLL to be licensed under GPL.
+
+The libcube DLL file and related files are distributed under MIT license (below).
+
+================================================================================
 MIT License
 
 Copyright (c) 2025 Tomas Ukkonen
