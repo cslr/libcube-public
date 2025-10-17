@@ -1,5 +1,5 @@
 # libcube-public
-C++ binary repository of (Audio Syntheisizer) parameter reduction library for Windows (Visual C++, MSYS2 MINGW)
+C++ binary repository of (audio Synthesizer) parameter reduction library for Windows (Visual C++, MSYS2 MINGW)
 
 Parameter reduction makes it easier to find new sounds when exploring only 2D/3D space of "good sounds".
 
